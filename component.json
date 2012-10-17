@@ -1,0 +1,5 @@
+{
+  "name": "socket.io",
+  "main": "dist/socket.io.js",
+  "version": "0.9.10"
+}
